@@ -2,7 +2,7 @@
 
 A comprehensive exploration of mathematical models describing gene regulatory networks, from basic activation/repression mechanisms to complex oscillatory systems like the Repressilator.
 
-## 📋 Project Overview
+##  Project Overview
 
 This project implements and analyzes four fundamental models of gene expression:
 1. **Activation Model** (Hill Function)
@@ -12,7 +12,7 @@ This project implements and analyzes four fundamental models of gene expression:
 
 The implementation includes both conceptual demonstrations and detailed numerical simulations with biological parameter sensitivity analysis.
 
-## 🧬 Models Implemented
+##  Models Implemented
 
 ### 1. Activation Model (Positive Regulation)
 - **Biological Mechanism:** Transcription factor binding with cooperative dynamics
@@ -39,7 +39,7 @@ The implementation includes both conceptual demonstrations and detailed numerica
   - Stochastic vs deterministic simulations
   - Quantitative oscillation analysis (period, amplitude)
 
-## 🛠️ Technical Implementation
+##  Technical Implementation
 
 ### Core Dependencies
 ```python
